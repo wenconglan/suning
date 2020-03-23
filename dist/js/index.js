@@ -1,0 +1,1 @@
+"use strict";console.log("js代码");var i=10;document.onclick=function(){alert("document被点击")};
