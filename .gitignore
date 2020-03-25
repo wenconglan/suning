@@ -41,6 +41,8 @@ build/Release
 node_modules/
 jspm_packages/
 material/
+dist/
+dist1/
 # TypeScript v1 declaration files
 typings/
 
